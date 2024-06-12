@@ -1,0 +1,7 @@
+{
+  "name": "ezoom",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
